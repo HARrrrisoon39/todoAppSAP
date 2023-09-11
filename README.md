@@ -7,3 +7,5 @@
 1. cd server
 2. npm i
 3. npm run serve
+
+![Screenshot](1.jpg)
