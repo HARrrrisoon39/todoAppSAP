@@ -10,6 +10,9 @@
 
 # SCREENSHOT OF PROTOTYPE
 
+Splash Screen
 ![Screenshot](1.jpg)
+Main Screen
 ![Screenshot](2.jpg)
+JSON File
 ![Screenshot](3.jpg)
