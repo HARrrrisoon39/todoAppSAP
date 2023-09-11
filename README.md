@@ -8,6 +8,6 @@
 2. npm i
 3. npm run serve
 
-#SCREENSHOT OF PROTOTYPE
+# SCREENSHOT OF PROTOTYPE
 
 ![Screenshot](1.jpg)
